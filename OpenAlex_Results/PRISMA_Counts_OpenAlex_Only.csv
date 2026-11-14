@@ -1,0 +1,9 @@
+﻿Stage,Count
+Records retrieved from OpenAlex before duplicate removal,2000
+Duplicates removed in the OpenAlex set,566
+Unique OpenAlex records for screening,1434
+Records screened at title/abstract,
+Records excluded at title/abstract,
+Full texts assessed,
+Full texts excluded,
+Studies included in the final review,

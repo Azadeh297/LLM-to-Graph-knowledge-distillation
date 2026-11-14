@@ -1,0 +1,11 @@
+﻿query_id,query_text,source,run_timestamp_utc,date_from,date_to,total_hits_reported_by_api,retrieval_cap,records_retrieved,pages_retrieved,status
+Q1,LLM knowledge distillation graph,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,20111,200,200,2,completed
+Q2,large language model graph neural network distillation,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,35553,200,200,2,completed
+Q3,language model graph knowledge transfer,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,188164,200,200,2,completed
+Q4,pretrained language model graph knowledge distillation,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,21458,200,200,2,completed
+Q5,language model teacher graph student,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,69114,200,200,2,completed
+Q6,LLM-guided graph knowledge transfer,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,45179,200,200,2,completed
+Q7,LLM soft-label distillation graph,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,5251,200,200,2,completed
+Q8,LLM rationale distillation graph learning,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,4266,200,200,2,completed
+Q9,temporal graph knowledge distillation language model,OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,18121,200,200,2,completed
+Q10,"(LLM OR ""large language model"" OR PLM OR ""pretrained language model"") AND (distillation OR distilled OR ""knowledge transfer"") AND (graph OR GNN OR ""graph neural network"")",OpenAlex Works API,2026-11-14T16:23:23+00:00,2023-01-01,2026-11-13,46188,200,200,2,completed
